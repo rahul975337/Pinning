@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:hey/ExpansionTile.dart';
 import 'package:hey/alreadyInProject/constants.dart';
-import 'package:hey/alreadyInProject/settingsBox.dart';
 import 'package:hey/settingsBlueButton.dart';
+import 'package:hey/woExp/ExpansionTile.dart';
 
 class WoExpScreen extends StatefulWidget {
   @override
